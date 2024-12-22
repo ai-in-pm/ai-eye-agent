@@ -2,10 +2,6 @@
 
 An intelligent eye-tracking agent that learns from your gaze patterns to control your computer cursor and execute commands.
 
-The development of this GitHub Repository was inspired by Apple's Iphone IOS 18.3 Developer Beta Update
-![Apple IOS 18_3 Developer Beta Update I](https://github.com/user-attachments/assets/020f153a-2184-422f-8513-0205c19190ef)
-![Apple IOS 18_3 Developer Beta Update II](https://github.com/user-attachments/assets/02b3ad83-7893-46a8-830b-191e38fad8a4)
-
 ## First iteration of running the AI Eye Agent
 
 The AI Eye Agent completed the following:
@@ -95,3 +91,8 @@ Make sure to keep your `.env` file secure and never commit it to version control
 - Keep your head relatively stable during use
 - The agent works best on a single monitor setup initially
 - Performance may vary based on lighting conditions and eye tracker quality
+
+## The development of this GitHub Repository was inspired by Apple's Iphone IOS 18.3 Developer Beta Update
+![Apple IOS 18_3 Developer Beta Update I](https://github.com/user-attachments/assets/020f153a-2184-422f-8513-0205c19190ef)
+![Apple IOS 18_3 Developer Beta Update II](https://github.com/user-attachments/assets/02b3ad83-7893-46a8-830b-191e38fad8a4)
+
