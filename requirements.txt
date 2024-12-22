@@ -1,0 +1,12 @@
+python-pygaze
+pyautogui
+opencv-python
+numpy
+python-dotenv
+openai>=1.0.0
+torch
+scikit-learn
+pywin32
+psychopy
+dlib
+urllib3
