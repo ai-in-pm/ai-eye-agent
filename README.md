@@ -4,6 +4,8 @@ An intelligent eye-tracking agent that learns from your gaze patterns to control
 
 ## First iteration of running the AI Eye Agent
 
+https://youtu.be/aotrpSxUZC4
+
 The AI Eye Agent completed the following:
 
   - Open your webcam
