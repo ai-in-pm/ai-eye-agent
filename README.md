@@ -4,7 +4,7 @@ An intelligent eye-tracking agent that learns from your gaze patterns to control
 
 ## First iteration of running the AI Eye Agent
 
-https://youtu.be/aotrpSxUZC4
+
 
 The AI Eye Agent completed the following:
 
@@ -16,7 +16,7 @@ The AI Eye Agent completed the following:
 
   - The AI Eye Agent was in full control of my cursor, did not allow me to physically control it, as shown in this video.  I had to conduct hard restart to my computer even though I was on a Virtual environment.
     
-
+    https://youtu.be/aotrpSxUZC4
 
 ## Features
 
