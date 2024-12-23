@@ -18,9 +18,9 @@ The AI Eye Agent completed the following:
     
     https://youtu.be/aotrpSxUZC4
 
-## Secon iteration of running the AI Eye Agent 2 hours later
+## Secon iteration of running the AI Eye Agent - 2 hours later
 
-The Agents completes its training but outputting a Traceback error, stating not enough Training Data collected (28/50 point)
+The Agent completes its training but outputting a Traceback error, stating not enough Training Data collected (28/50 point)
 ![image](https://github.com/user-attachments/assets/d345da2a-b7ec-4863-a704-086e936e4e25)
 
 
